@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Radio.PlayPage" Icon="outline_play_arrow_white_24dp.png" BackgroundColor="Black">
+        <ContentPage.Content>
+            <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+            <ImageButton Source="play.png"
+                         x:Name="playButton"
+                         BackgroundColor="Transparent" 
+                         WidthRequest="125" 
+                         HeightRequest="125" 
+                         FlexLayout.AlignSelf="Center" 
+                         FlexLayout.Grow="1"
+                         Clicked="Play_Click"
+                         Aspect="AspectFit"></ImageButton>
+            <Label Text="Hello!" x:Name="deneme" TextColor="AntiqueWhite"></Label>
+
+        </StackLayout>
+       
+        </ContentPage.Content>
+</ContentPage>

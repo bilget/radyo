@@ -1,0 +1,14 @@
+C:\Users\bilge\source\repos\Radio\Radio\Radio\bin\Debug\netstandard2.0\Radio.deps.json
+C:\Users\bilge\source\repos\Radio\Radio\Radio\bin\Debug\netstandard2.0\Radio.dll
+C:\Users\bilge\source\repos\Radio\Radio\Radio\bin\Debug\netstandard2.0\Radio.pdb
+C:\Users\bilge\source\repos\Radio\Radio\Radio\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bilge\source\repos\Radio\Radio\Radio\obj\Debug\netstandard2.0\InfoPage.xaml.g.cs
+C:\Users\bilge\source\repos\Radio\Radio\Radio\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\bilge\source\repos\Radio\Radio\Radio\obj\Debug\netstandard2.0\PlayPage.xaml.g.cs
+C:\Users\bilge\source\repos\Radio\Radio\Radio\obj\Debug\netstandard2.0\StreamPage.xaml.g.cs
+C:\Users\bilge\source\repos\Radio\Radio\Radio\obj\Debug\netstandard2.0\Radio.csproj.CoreCompileInputs.cache
+C:\Users\bilge\source\repos\Radio\Radio\Radio\obj\Debug\netstandard2.0\Radio.AssemblyInfoInputs.cache
+C:\Users\bilge\source\repos\Radio\Radio\Radio\obj\Debug\netstandard2.0\Radio.AssemblyInfo.cs
+C:\Users\bilge\source\repos\Radio\Radio\Radio\obj\Debug\netstandard2.0\Radio.dll
+C:\Users\bilge\source\repos\Radio\Radio\Radio\obj\Debug\netstandard2.0\Radio.pdb
+C:\Users\bilge\source\repos\Radio\Radio\Radio\obj\Debug\netstandard2.0\Radio.csprojAssemblyReference.cache
